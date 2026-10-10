@@ -1,3 +1,4 @@
+![alt text]([https://i.imgur.com/CVQkZ67.png](https://imgur.com/a/IDgXvGu) "Pokémon Versione Rossa")
 # pokered-gbc-it
 
 Pokémon Versione Rossa and Pokémon Versione Blu overhauled with full GBC support. 
