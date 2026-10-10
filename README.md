@@ -1,4 +1,5 @@
-![alt text]([https://i.imgur.com/CVQkZ67.png](https://imgur.com/a/IDgXvGu) "Pokémon Versione Rossa")![alt text]
+<img width="2066" height="1890" alt="Em8lDFu" src="https://github.com/user-attachments/assets/2e0fba38-c422-46a2-9d44-b2b57a267b4b" />
+
 
 # pokered-gbc-it
 
