@@ -3,6 +3,12 @@
 Pokémon Versione Rossa and Pokémon Versione Blu overhauled with full GBC support. 
 Made from alechieffi/pokered-it and dannye/pokered-gbc by FroggestSpirit, Drenn, and dannye.
 
+To install pokered-gbc-it, you need one of the two
+
+* Pokemon - Versione Rossa (Italy) (SGB Enhanced).gb `sha1: 65B97CF8F2F1CFF711A6D08C6C894C8CE65CE522`
+* Pokemon - Versione Blu (Italy) (SGB Enhanced).gb `sha1: F69ED1A1332F04C24C7DB899A09019BB045FA8B3`
+
+and use of an IPS patcher like this https://www.marcrobledo.com/RomPatcher.js/ with the file contained in \patches\.
 
 # Pokémon Versione Rossa e Blu [![Build Status][ci-badge]][ci]
 
